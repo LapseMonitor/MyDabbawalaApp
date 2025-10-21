@@ -26,4 +26,59 @@ Alongside my academic journey, I’m passionate about **full-stack web developme
 
 Clone the project:
 ```bash
-git clone https://github.com/LapseMonitor/dabbawala.git
+git clone https://github.com/LapseMonitor/MyDabbawalaApp.git
+
+Start the client
+
+```bash
+  npm start
+```
+
+Go to the project directory
+
+```bash
+  cd dabbawala_backend/
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  nodemon
+```
+Again go to the project directory
+
+```bash
+  cd dabbawala_frontend/
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`DB_URL`
+
+
+## Screenshots
+![login](https://github.com/imvktiwari/dabbawala/assets/101259079/8f188704-5df9-4c20-a163-ac43790d0f12)
+![register](https://github.com/imvktiwari/dabbawala/assets/101259079/a5cb4102-c950-435e-b9ce-2a23047f7a15)
+![home](https://github.com/imvktiwari/dabbawala/assets/101259079/7cab5448-8305-483b-afcc-123b4ac5b1fc)
+![newresponse](https://github.com/imvktiwari/dabbawala/assets/101259079/fd81d2c7-898c-464b-820f-ed0a09836078)
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at arkanbura@gmail.com
+
